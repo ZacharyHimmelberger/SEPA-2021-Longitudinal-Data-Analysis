@@ -4,7 +4,7 @@
 #
 
 # call data generation script
-source("/Users/zach.himmelberger/OneDrive - Maryville College/Professional Development/SEPA Longitudinal Presentation/data generation.R")
+source("https://raw.githubusercontent.com/ZacharyHimmelberger/SEPA-2021-Longitudinal-Data-Analysis/main/data%20generation.R")
 
 # load libraries
 # tidyverse already imported in previous script
